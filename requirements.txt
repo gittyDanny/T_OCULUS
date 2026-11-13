@@ -1,0 +1,4 @@
+# Die ROS-kompatiblen Bibliotheken werden durch prerequisites.sh via apt installiert.
+# OpenCV kommt aus python3-opencv, NumPy aus python3-numpy.
+# ROS-Pakete wie rclpy und cv_bridge kommen aus ROS 2 Jazzy.
+# Weitere reine Python-Abhängigkeiten können hier ergänzt werden.
