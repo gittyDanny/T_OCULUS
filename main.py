@@ -14,6 +14,6 @@ from tf2_ros import Buffer, TransformListener, TransformException
 from tf2_geometry_msgs import do_transform_point
 from sensor_msgs.msg import Image, CameraInfo, JointState
 from geometry_msgs.msg import PointStamped, TransformStamped
-from visualization_msgs.msg import Marker, MarkerArra
+from visualization_msgs.msg import Marker, MarkerArray
 
 print("hello world ")

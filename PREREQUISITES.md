@@ -4,8 +4,9 @@ Ubuntu 24.04, ROS 2 Jazzy und Python 3.12. Als Bildverarbeitung ist OpenCV gewä
 
 ## Start
 
+Öffne ein Bash-Terminal im geklonten Repository, in dem `activate.sh` und `main.py` liegen.
+
 ```bash
-cd "$HOME/OneDrive/1 - UNI/33. PSE"
 source activate.sh
 python main.py
 ```
